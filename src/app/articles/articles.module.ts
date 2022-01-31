@@ -11,7 +11,7 @@ import { ArticlesComponent } from './articles.component';
   ],
   imports: [
     CommonModule,
-    ArticlesRoutingModule
+    ArticlesRoutingModule,
   ]
 })
 export class ArticlesModule { }
